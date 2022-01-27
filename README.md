@@ -1,1 +1,1 @@
-# My_SQLite_Studies
+# SQLite_Studies
